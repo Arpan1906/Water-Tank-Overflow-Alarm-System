@@ -18,7 +18,9 @@ A simple and low-cost Water Tank Overflow Alarm System using the NE555 timer IC,
 - 12v Buzzer
 - 12v power supply
 - 2 pin plug
-- Wires  
+- Wires
+- Plastic casing
+
 
 ---
 
