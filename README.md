@@ -51,7 +51,7 @@ A water level sensor is implanted inside the tank and it working based on the pr
 ## 🧪 Results
 Include photos or screenshots of your working prototype.
 
-![image alt]()
+![image alt](https://github.com/Arpan1906/Water-Tank-Overflow-Alarm-System/blob/main/Illustrations/IMG20230707201804.jpg?raw=true)
 ---
 
 ## 👨‍💻 Author
