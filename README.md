@@ -51,8 +51,7 @@ A water level sensor is implanted inside the tank and it working based on the pr
 ## 🧪 Results
 Include photos or screenshots of your working prototype.
 
-![Project Photo](docs/readme_images/project_photo.jpg)
-
+![image alt]()
 ---
 
 ## 👨‍💻 Author
