@@ -24,7 +24,6 @@ A simple and low-cost Water Tank Overflow Alarm System using the NE555 timer IC,
 ---
 
 ## ⚙️ Features
-- Fully analog system
 - Very less maintenence cost
 - Immidiate triggering
 - Compact and low-power consuming.
