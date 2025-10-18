@@ -2,7 +2,7 @@
 A simple and low-cost Water Tank Overflow Alarm System using the NE555 timer IC, resistors, and capacitors. It provides precise control of the tank’s water level without complex modules and efficiently triggers a buzzer alarm when the tank reaches its maximum level, preventing overflow and saving water.
 
 https://github.com/Arpan1906/Water-Tank-Overflow-Alarm-System/blob/aeb72d4f7c9bd66019de61f11b4d9c578b8a9a30/Illustrations/IMG20230707201804.jpg
-
+Illustrations/IMG20230707201804.jpg
 
 ## 🧰 Components Used
 - NE555 Timer IC
