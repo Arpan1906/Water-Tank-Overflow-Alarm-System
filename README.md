@@ -3,6 +3,7 @@ A simple and low-cost Water Tank Overflow Alarm System using the NE555 timer IC,
 
 ![image alt](https://github.com/Arpan1906/Water-Tank-Overflow-Alarm-System/blob/main/Illustrations/IMG20230707201804.jpg?raw=true)
 ![image alt](https://github.com/Arpan1906/Water-Tank-Overflow-Alarm-System/blob/main/Illustrations/IMG20230705132205.jpg?raw=true)
+![image alt](https://github.com/Arpan1906/Water-Tank-Overflow-Alarm-System/blob/main/Illustrations/IMG20230704225456.jpg?raw=true)
 ## 🧰 Components Used
 - NE555 Timer IC
 - Anti-Corrosion Water Level Sensor with Ball Float Switch
