@@ -6,6 +6,10 @@ A simple and low-cost Water Tank Overflow Alarm System using the NE555 timer IC,
 
 ## 🧰 Components Used
 - NE555 Timer IC
+- 7805 regulator IC
+- 220 ohm resistor
+- Terminal connectors
+- Vero board/ Zero pcb board
 - 470 Kohm resistor
 - 100 Kohm resistor
 - 3mm red led
@@ -13,6 +17,7 @@ A simple and low-cost Water Tank Overflow Alarm System using the NE555 timer IC,
 - 2.2 uf Capacitor  
 - 12v Buzzer
 - 12v power supply
+- 2 pin plug
 - Wires  
 
 ---
