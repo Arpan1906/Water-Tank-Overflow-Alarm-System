@@ -51,5 +51,5 @@ Include photos or screenshots of your working prototype.
 ## 👨‍💻 Author
 **Arpan Mukherjee**  
 B.Tech in Electronics and Communication Engineering
-📧 arpanmukherjee3141@gmail.com  
-🔗 [GitHub Profile](https://github.com/arpanmukherjee)
+[arpanmukherjee3141@gmail.com  ]
+[GitHub Profile](https://github.com/arpanmukherjee)
