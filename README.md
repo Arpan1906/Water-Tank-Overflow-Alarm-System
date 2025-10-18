@@ -33,7 +33,7 @@ A simple and low-cost Water Tank Overflow Alarm System using the NE555 timer IC,
 ---
 
 ## 🔌 Circuit Diagram
-Include your circuit image here:
+
 
 ![Circuit Diagram](schematics/circuit_diagram.png)
 
@@ -49,7 +49,7 @@ A water level sensor is implanted inside the tank and it working based on the pr
 ---
 
 ## 🧪 Results
-Include photos or screenshots of your working prototype.
+
 
 ![image alt](https://github.com/Arpan1906/Water-Tank-Overflow-Alarm-System/blob/main/Illustrations/IMG20230707201804.jpg?raw=true)
 ---
