@@ -58,4 +58,4 @@ A water level sensor is implanted inside the tank and it working based on the pr
 **Arpan Mukherjee**  
 B.Tech in Electronics and Communication Engineering
 [arpanmukherjee3141@gmail.com  ]
-[GitHub Profile](https://github.com/arpanmukherjee)
+[GitHub Profile](https://github.com/Arpan1906)
